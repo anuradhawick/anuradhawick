@@ -2,6 +2,8 @@
 
 I’m Anuradha—I’m a Ph.D. student at the [School of Computing](https://cs.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, Australia. I enjoy writing code, playing gamex (XBOX ONE) and IoT DIYs.
 
+Check out my personal website [anuradhawick.com](https://www.anuradhawick.com).
+
 Check my recent web-site development at [Vinyl.LK](https://www.vinyl.lk/). This is implemented in AWS with Lambda, S3, Cloudfront and Route53! Check repo in [Github](https://github.com/anuradhawick/vinyl-search)   
 
 - 🔭 I’m currently working on clustering TGS sequencing data (binning long reads)
