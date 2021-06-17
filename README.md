@@ -16,13 +16,13 @@ Check my recent web-site development at [Vinyl.LK](https://www.vinyl.lk/). This 
 
 I feel quite thrilled about few of my recent work! So decided to showcase here. 😎
 
-#### 🎥 [YOLO Object Annotator for Computer Vision](https://github.com/anuradhawick/Object-Annotation-Maker)
-
-This enables generation of training images for YOLO given a set of objects and backgrounds. Makes life a lot easier as manually annotating real images is labour intensive.
-
 #### 🧬 [Long Reads Specialized Binner (MetaBCC-LR)](https://github.com/anuradhawick/MetaBCC-LR)
 
 First long read binner that uses both coverage and composition both in metagenomics binning. Here we introduce a neat trick to estimate read coverage via kmers and build a feature vector for coverage.
+
+#### 🎥 [YOLO Object Annotator for Computer Vision](https://github.com/anuradhawick/Object-Annotation-Maker)
+
+This enables generation of training images for YOLO given a set of objects and backgrounds. Makes life a lot easier as manually annotating real images is labour intensive.
 
 #### 🌐 [AWS Boilerplate (Ready to use with Router)](https://github.com/anuradhawick/aws-lambda-serverless-boilerplate)
 
