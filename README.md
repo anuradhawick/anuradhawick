@@ -1,4 +1,4 @@
-### G'day! Welcome to by Github home 👋
+### G'day! Welcome to my Github home 👋
 
 I’m Anuradha—I’m and Software Engineer at CSIRO, Australia and a Ph.D. candidate at the [School of Computing](https://cs.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, Australia. I enjoy writing code, playing games and IoT DIYs.
 
