@@ -1,6 +1,6 @@
 ### G'day! Welcome to my Github home 👋
 
-I’m Anuradha—I’m and Software Engineer at CSIRO, Australia and a Ph.D. candidate at the [School of Computing](https://cs.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, Australia. I enjoy writing code, playing games and IoT DIYs.
+I’m Anuradha—I’m and [Software Engineer at CSIRO](https://people.csiro.au/w/a/anuradha-wickramarachchi), Australia and a Ph.D. candidate at the [School of Computing](https://cs.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, Australia. I enjoy writing code, playing games and IoT DIYs.
 
 Check out my personal website [anuradhawick.com](https://www.anuradhawick.com).
 
