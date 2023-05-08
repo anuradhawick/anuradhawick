@@ -8,7 +8,7 @@ Check my recent web-site development at [Vinyl.LK](https://www.vinyl.lk/). This 
 
 - 🔭 I’m currently working on clustering TGS sequencing data (binning long reads)
 - 🌱 Interested areas include Machine Learning, Bioinformatics and Computational Biology
-- 📫 How to reach me: anuradhawick@gmail.com
+- 📫 How to reach me: hello@anuradhawick.com
 - 🏠 Check out my personal website: https://anuradhawick.github.io
 - 📝 Check out my Medium Blog: https://medium.com/@anuradhawick
 
