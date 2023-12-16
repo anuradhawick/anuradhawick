@@ -28,4 +28,6 @@ This enables generation of training images for YOLO given a set of objects and b
 
 This came as a requirement in [Vinyl.LK](https://www.vinyl.lk/). This is a solid template for any AWS lambda based project. All the yaml files and templates are included with sufficient(I hope) help and documentation.
 
-![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=anuradhawick&show_icons=true&theme=buefy)
+#### 👨🏽‍💻 [Algorithm Competitions](https://github.com/anuradhawick/algo-competitions)
+
+Here you will find how I have done some of the challenging code events in the past few years. I will try to migrate the things I have done before my time in GitHub as we go along.
