@@ -12,6 +12,12 @@ Check my recent web-site development at [Vinyl.LK](https://www.vinyl.lk/). This 
 - 🏠 Check out my personal website: https://anuradhawick.com
 - 📝 Check out my Medium Blog: https://medium.com/@anuradhawick
 
+### Check out the apps on [my website](https://anuradhawick.com/apps/)
+
+#### [TypeFaster](https://typefaster.anuradhawick.com)
+
+A platform to practice your typiing. Find the repo - [https://github.com/anuradhawick/typefaster](https://github.com/anuradhawick/typefaster) .You can access the demo on [https://typefaster.anuradhawick.com](https://typefaster.anuradhawick.com)
+
 ### Few repo highlights 📸 
 
 I feel quite thrilled about few of my recent work! So decided to showcase here. 😎
