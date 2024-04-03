@@ -14,7 +14,7 @@ Check my recent web-site development at [Vinyl.LK](https://www.vinyl.lk/). This 
 
 ### Check out the apps on [my website](https://anuradhawick.com/apps/)
 
-#### [TypeFaster](https://typefaster.anuradhawick.com)
+#### ⌨️ [TypeFaster](https://typefaster.anuradhawick.com)
 
 A platform to practice your typiing. Find the repo - [https://github.com/anuradhawick/typefaster](https://github.com/anuradhawick/typefaster) .You can access the demo on [https://typefaster.anuradhawick.com](https://typefaster.anuradhawick.com)
 
