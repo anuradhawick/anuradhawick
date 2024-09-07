@@ -1,4 +1,4 @@
-### G'day! Welcome to my Github home 👋
+### G'day! Welcome to my GitHub home 👋
 
 I’m Anuradha—I’m and [Solutions Architect for Bioinformatics Products at CSIRO](https://people.csiro.au/w/a/anuradha-wickramarachchi), Australia. I got my Ph.D. in computer science from the [School of Computing](https://cs.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, Australia. I enjoy writing code, playing games and IoT DIYs.
 
