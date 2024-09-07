@@ -6,21 +6,34 @@ Check out my personal website [anuradhawick.com](https://www.anuradhawick.com).
 
 Check my recent web-site development at [Vinyl.LK](https://www.vinyl.lk/). This is implemented in AWS with Lambda, S3, Cloudfront and Route53! Check repo in [Github](https://github.com/anuradhawick/vinyl-search)   
 
-- 🔭 I’m currently working on clustering TGS sequencing data (binning long reads)
+- 🔭 I build bioinformatics software/tools, browse through my repos
+- 🔭 I've worked on clustering TGS sequencing data (binning long reads)
 - 🌱 Interested areas include Machine Learning, Bioinformatics and Computational Biology
 - 📫 How to reach me: hello@anuradhawick.com
-- 🏠 Check out my personal website: https://anuradhawick.com
+- 🏠 Check out my portfolio website: https://anuradhawick.com
 - 📝 Check out my Medium Blog: https://medium.com/@anuradhawick
 
 ### Check out the apps on [my website](https://anuradhawick.com/apps/)
 
-#### ⌨️ [TypeFaster](https://typefaster.anuradhawick.com)
+#### 💻 [TypeFaster](https://typefaster.anuradhawick.com)
 
 A platform to practice your typiing. Find the repo - [https://github.com/anuradhawick/typefaster](https://github.com/anuradhawick/typefaster) .You can access the demo on [https://typefaster.anuradhawick.com](https://typefaster.anuradhawick.com)
+
+#### 📎 [Clipper](https://github.com/anuradhawick/clipper)
+
+A versatile clipboard management and note-taking application designed specifically for developers.
 
 ### Few repo highlights 📸 
 
 I feel quite thrilled about few of my recent work! So decided to showcase here. 😎
+
+#### 🧬 [Kmertools] (https://github.com/anuradhawick/kmertools)
+
+kmertools is a k-mer based feature extraction tool designed to support metagenomics and other bioinformatics analytics. 
+
+#### 🧬 [RsBio-Seq](https://github.com/anuradhawick/rsbio-seq)
+
+A faster FASTA/FASTQ reader with very small footprint in your code compared to Biopython.
 
 #### 🧬 [Long Reads Specialized Binner (MetaBCC-LR)](https://github.com/anuradhawick/MetaBCC-LR)
 
