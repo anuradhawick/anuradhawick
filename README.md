@@ -27,7 +27,7 @@ A versatile clipboard management and note-taking application designed specifical
 
 I feel quite thrilled about few of my recent work! So decided to showcase here. 😎
 
-#### 🧬 [Kmertools] (https://github.com/anuradhawick/kmertools)
+#### 🧬 [Kmertools](https://github.com/anuradhawick/kmertools)
 
 kmertools is a k-mer based feature extraction tool designed to support metagenomics and other bioinformatics analytics. 
 
