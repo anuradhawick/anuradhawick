@@ -17,6 +17,7 @@ Check my recent web-site development at [Vinyl.LK](https://www.vinyl.lk/). This 
 
 ## Apps
 
+* 🕶️ [IceBreak](https://icebreak.anuradhawick.com) - Website to get together and have breaks during online seminars and meetings.
 * 💻 [TypeFaster](https://typefaster.anuradhawick.com) - A platform to practice your typiing. 
 * 📎 [Clipper](https://github.com/anuradhawick/clipper) - A versatile clipboard management and note-taking application designed specifically for developers.
 
